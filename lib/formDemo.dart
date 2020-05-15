@@ -19,6 +19,10 @@ class MyApp extends StatelessWidget {
   }
 }
 
+class openInfo{
+
+}
+
 class FormRouteDemo extends StatefulWidget {
   @override
   _FormRouteDemoState createState() => _FormRouteDemoState();
